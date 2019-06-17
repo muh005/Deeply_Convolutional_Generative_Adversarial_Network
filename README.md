@@ -1,0 +1,2 @@
+# Deeply_Convolutional_Generative_Adversarial_Network
+A deeply convolutional generative adversarial network on Mnist
